@@ -1,0 +1,23 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsx ./"
+  },
+  "dependencies": {
+    "core": "workspace:*",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.15.0",
+    "sharp": "^0.33.2",
+    "tesseract.js": "^5.0.4"
+  },
+  "keywords": [],
+  "author": "witcat",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "@types/screenshot-desktop": "^1.12.3"
+  }
+}
