@@ -1,0 +1,16 @@
+{
+  "name": "windows-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsx ./"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2",
+    "core": "workspace:*"
+  },
+  "keywords": [],
+  "author": "witcat",
+  "license": "ISC"
+}
